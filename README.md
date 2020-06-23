@@ -1,2 +1,2 @@
 # products
-this page for a company has products and you want to manage it.
+this page for any company which has products or people or shops and you want to manage those products.
